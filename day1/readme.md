@@ -1,5 +1,3 @@
-[Index](/)
-
 # Sonar Sweep
 
 --- 
